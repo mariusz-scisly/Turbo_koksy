@@ -39992,7 +39992,7 @@ case 5:q.bq(k)
 B.b.q(p,k)
 q.hd.sR(--q.di)
 q.a4=!0
-q.ag=1
+q.ag=0.8
 n=q.au
 n===$&&A.e()
 q.fb("-\u2764\ufe0f",n.ax.d,B.b6)
